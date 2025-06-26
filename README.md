@@ -1,2 +1,2 @@
 # PayalRathod_projects
-This is a cprograming project
+This is a C programing project
