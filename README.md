@@ -1,2 +1,2 @@
-# PayalRathod_assignments
-This is a C programing project
+# PayalRathod_FBS_works
+This is a C programing assignments
