@@ -8,7 +8,7 @@ int main() {
         sum+= i;
     }
     if(sum==n)
-    printf("perfevt\n");
+    printf("perfect\n");
     else
     printf("not perfect\n");
 }
